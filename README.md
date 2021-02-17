@@ -1,6 +1,6 @@
 # Subordinate Finder
 
-Subordinate finder is a simple javascript application to det
+Subordinate finder is a simple javascript application to find subordinates for a given user.
 
 ## Installation
 
