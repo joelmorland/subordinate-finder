@@ -1,7 +1,7 @@
 require('./data/roles')
 require('./data/users')
-const {Role,setRoles} = require('./role')
-const {User,setUsers} = require('./user')
+const {Role,setRoles} = require('./src/role')
+const {User,setUsers} = require('./src/user')
 
 /**
  * Returns an array of subordinate users
